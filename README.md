@@ -4,7 +4,7 @@
   <img src="images/crime.png" width="600">
 </p>
 
-<p align="center" style="font-size:18px;">Screenshot from clustering exercise with crime data from Chicago. Crimes were clustered based on when the majority of different types of crimes are committed. The model revealed that crimes sharing certain characteristics (such as severity or nature of the crime) exhibit similar patterns in temporal distribution.</p>
+<p style="font-size:18px;" align="center">Screenshot from clustering exercise with crime data from Chicago. Crimes were clustered based on when the majority of different types of crimes are committed. The model revealed that crimes sharing certain characteristics (such as severity or nature of the crime) exhibit similar patterns in temporal distribution.</p>
 
 
 ### Overview
