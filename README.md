@@ -1,6 +1,8 @@
 ## Machine Learning
 
-![alt text](images/crime.png)
+<p align="center">
+  <img src="images/crime.png" width="600">
+</p>
 
 Screenshot from clustering exercise with crime data from Chicago. Crimes were clustered based on when the majority of different types of crimes are committed. The model revealed that crimes sharing certain characteristics (such as severity or nature of the crime) exhibit similar patterns in temporal distribution.
 
