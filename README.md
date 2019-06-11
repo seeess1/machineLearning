@@ -1,10 +1,15 @@
 ## Machine Learning
 
+<style>
+p {
+  font-size:20px;
+}
+</style>
 <p align="center">
   <img src="images/crime.png" width="600">
 </p>
 
-<p style="font-size:10px;" align="center">Screenshot from clustering exercise with crime data from Chicago. Crimes were clustered based on when the majority of different types of crimes are committed. The model revealed that crimes sharing certain characteristics (such as severity or nature of the crime) exhibit similar patterns in temporal distribution.</p>
+<p align="center">Screenshot from clustering exercise with crime data from Chicago. Crimes were clustered based on when the majority of different types of crimes are committed. The model revealed that crimes sharing certain characteristics (such as severity or nature of the crime) exhibit similar patterns in temporal distribution.</p>
 
 
 ### Overview
